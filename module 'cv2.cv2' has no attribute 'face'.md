@@ -17,3 +17,7 @@ OpenCV를 이용하여 프로젝트를 개발하던 중 아래와 같은 에러 
     pip install opencv-contrib-python
   
 
+####  - 그래도 해결되지 않는다면 아래와 같이 해당 모듈을 제거하고 다시 설치하면 된다.
+
+    pip uninstall opencv-contrib-python
+    pip install opencv-contrib-python    
